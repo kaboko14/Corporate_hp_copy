@@ -1,5 +1,5 @@
 # 模写練習
 株式会社Progate様のサイトのトップページをお手本に模写させていただきました。  
-※レスポンシブ対応
+※レスポンシブ対応  
 　お手本　→　https://prog-8.com/about  
 　模写サイトプレビュー　→　https://kaboko14.github.io/Corporate_hp_copy/
